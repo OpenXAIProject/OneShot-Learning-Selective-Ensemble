@@ -1,7 +1,7 @@
 # A Selective Ensemble of Meta-Learners for One-shot Learning
 
 ### **CONTENT**
-> An weighted linear combination of meta-learners to alleviate task covariate shift in meta-learning
+> A weighted linear combination of meta-learners to alleviate task covariate shift in meta-learning
 ### **How to Use**
 
 ```bash
