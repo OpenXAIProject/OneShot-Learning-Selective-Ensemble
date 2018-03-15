@@ -1,0 +1,11 @@
+*.pyc
+*.log
+*.npy
+*.npz
+*.ckpt
+*.tar
+*.out
+*.sh
+utils/paths.py
+**/results/
+/records/
